@@ -1,6 +1,6 @@
 # Orientation Project
 
-### My orientation project is an interactive abstract visualization of Emily’s Dickinson poem “There is a pain—so utter—”.  
+### An interactive abstract visualization of Emily’s Dickinson poem “There is a pain—so utter—”.  
 
 I divided the poem into three themes and highlighted keywords:
 
