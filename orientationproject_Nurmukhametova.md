@@ -23,7 +23,7 @@ In a Swoon, one can still exist and not be destroyed by grief, but as soon as on
 Each theme would be represented by different generative abstract animations. The animations would be made in Touchdesigner.  The text of the poem will be integrated into the animation and have the same stylistic approach. In a best case scenario, the animation would be presented in room as projection on the wall and viewer will be able to reveal the text of the poem by hand gestures. It would be also possible to listen to the poem in headphones next to the projection. 
 
 ## Moodboard
-https://www.pinterest.com/nurmellina/orientation-project/
+![Moodboard](nurellina/orientation_project/blob/master/img/moodboard.png)
 
 ## The worst case
 * polished, visually pleasing visualization
