@@ -1,5 +1,7 @@
 **Orientation Project Documentation**
 
+
+
   
 
 ***November***
@@ -32,7 +34,7 @@
 
   
 
--   Watched tutorials from Yale Workshop of Matthew Ragan, which he recommends for absolute beginners. Spend the whole building the web movie player, hoping to learn about logic in the program, gave up almost in the end realizing that I’m loosing time and it’s not that much help for my own project [https://matthewragan.com/touchdesigner-workshop-yale-2017/](https://matthewragan.com/touchdesigner-workshop-yale-2017/)
+-   Watched tutorials from Yale Workshop of Matthew Ragan, which he recommends for absolute beginners. Spend the whole day building the web movie player, hoping to learn more about the logic of the program, gave up almost in the end realizing that I’m loosing time and it’s not that much help for my own project [https://matthewragan.com/touchdesigner-workshop-yale-2017/](https://matthewragan.com/touchdesigner-workshop-yale-2017/)
     
 
 ![](https://lh4.googleusercontent.com/HdJhQsysEYAoGMqLPLQc6jCU-35vhiLGL7XWP3DwgKmGNAQJflQahR2ubJN0ppLwmbfxcjU9eFg0ics1ibKl_F1oShb-mV60PQdv8sOQgrxnrUY82TK01Tce56So6ApNCSn5B-vQ)
@@ -44,7 +46,7 @@
    ![](https://lh6.googleusercontent.com/b9wT_aS_GsiFNYtu2z0q4NYXvXkCGHR-jclQm2G2xFTfRi79B5JZf1xm9Mo--5HiuQeH11zifIB1Bp8ZVVafs9RiZ9TPS7FWfrRVlwA_-jq4fIIogKuhogw6eXgbaBroO1P0dPtb)
     
   ![](https://lh3.googleusercontent.com/sIlM--7wbA2FT2-my0rBOcvD98x8HVxGc_vqJqBKMRSm_SOIk7l4D7TZNDDTBJ3VEwlD8XO6LVCMcjQyLsWU52O7d-j0XYyrqEdwU7A2Kig9O14bLoN7qdyYlfO04fP_VL8GOon8)
-    (Rafik Anadol, Latent Being)
+    (Rafik Anadol, Latent Being, https://www.lightartspace.org/events/latent-being)
 
   
 
@@ -52,12 +54,12 @@
 
   
 
--   Started working on interaction. It turned out to be not so easy as I thought. Either I’m so stupid, or it’s actually not so well made in Touchdesiger as in Processing. All the information I could find was about mapping the object to the Mouse (using Mouse In Chop, then connecting it to the Select CHOP to select tx and ty chanell for mouse positions), but it’s not what I need, what I’m looking for is to be able mouse-click on the different areas of the container to make text appear in that areas. In the end of the research was able to start my first simulation using Keyboard In CHOP with pressing key 1 on keyboard. At least some sort of the interaction.
+-   Started working on interaction. It turned out to be not so easy as I thought. Either I’m so stupid, or it’s actually not so well made in Touchdesiger as in Processing. All the information I could find was about mapping the object to the Mouse (using Mouse In Chop, then connecting it to the Select CHOP to select tx and ty chanells for mouse positions) https://www.youtube.com/watch?v=VfA0IxwII84, but it’s not what I need, what I’m looking for is to be able mouse-click on the different areas of the container to make text appear in that areas. In the end of the research was able to start my first simulation using Keyboard In CHOP with pressing key 1 on keyboard. At least some sort of the interaction.
     
 -   ![](https://lh3.googleusercontent.com/iLxbxUrm0E-f880n8q3px8nNAX2KHZr-f4HSlTnmVd4D-Q5KJDSXLFBveNlyGmkaGkM_1DrTKhpvTopcYtYK6vaM0QZ6aCuJqTBehAVeqGxMWhQQiq8q64Wt6BlSBMg8F80U9-VM)
     
 
     
--   After Pitch and Peer review and talking to Valeria realized that I can go to Touchdesighner Meetup in Berlin to get help from the community. I’ve been already once when I didn’t have any project and completely forgot about this opportunity. I’m gonna go there on January 30th at 19:30 and ask for help! :) [https://www.meetup.com/ru-RU/TouchDesigner-Meetup-Berlin/events/](https://www.meetup.com/ru-RU/TouchDesigner-Meetup-Berlin/events/)
+-   After Pitch and Peer review and talking to Valeria I realized that I can go to Touchdesighner Meetup in Berlin to get help from the community. I’ve been already once when I didn’t have any project and completely forgot about this opportunity. I’m gonna go there on January 30th at 19:30 and ask for help! :) [https://www.meetup.com/ru-RU/TouchDesigner-Meetup-Berlin/events/](https://www.meetup.com/ru-RU/TouchDesigner-Meetup-Berlin/events/)
     
 -
