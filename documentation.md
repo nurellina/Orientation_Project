@@ -54,7 +54,7 @@
 
   
 
--   Started working on interaction. It turned out to be not so easy as I thought. Either I’m so stupid, or it’s actually not so well made in Touchdesiger as in Processing. All the information I could find was about mapping the object to the Mouse (using Mouse In Chop, then connecting it to the Select CHOP to select tx and ty chanells for mouse positions) https://www.youtube.com/watch?v=VfA0IxwII84, but it’s not what I need, what I’m looking for is to be able mouse-click on the different areas of the container to make text appear in that areas. In the end of the research was able to start my first simulation using Keyboard In CHOP with pressing key 1 on keyboard. At least some sort of the interaction.
+-   Started working on interaction. It turned out to be not so easy as I thought. Either I’m so stupid, or it’s actually not so well made in Touchdesiger as in Processing. All the information I could find was about mapping the object to the Mouse (using Mouse In Chop, then connecting it to the Select CHOP to select tx and ty chanells for mouse positions) https://www.youtube.com/watch?v=VfA0IxwII84, but it’s not what I need - what I’m looking for is to be able mouse-click on the different areas of the container to make text appear in that areas and I can't find information on mouse-clicking!! In the end of the research was able to start my first simulation using Keyboard In CHOP with pressing key 1 on keyboard. At least some sort of the interaction.
     
  ![](https://lh3.googleusercontent.com/iLxbxUrm0E-f880n8q3px8nNAX2KHZr-f4HSlTnmVd4D-Q5KJDSXLFBveNlyGmkaGkM_1DrTKhpvTopcYtYK6vaM0QZ6aCuJqTBehAVeqGxMWhQQiq8q64Wt6BlSBMg8F80U9-VM)
     
