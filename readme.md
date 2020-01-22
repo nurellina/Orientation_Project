@@ -30,7 +30,7 @@ Each theme would be represented by different generative abstract animations. The
 * visualization is generative (particles simulation with Touchdesigner software)
 * 2 recognizable themes are represented by 2 scenes (pain, which swallows substance; Abyss with Trance, where memory steps in)
 * viewer can interact with visualization by moving the mouse 
-* text of the poem is integrated into the visualization (generative typography with particles)
+* text of the poem is integrated into the visualization 
 * viewer can listen to the recorded poem reading 
 
 ## The best case
