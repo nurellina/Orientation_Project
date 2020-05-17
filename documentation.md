@@ -129,7 +129,7 @@ Decided to make text to be more interesting. Spent so much time and tried many d
 
 learned about Bullet Solver in Touchdesigner, which is a real-time physics simulation. Bullet simulation contains bodies, forces and constraints, and produces motion on the bodies. Bodies have physical properties: mass, size, kinetic friction etc. Each body has a collision shape, which determines how it collides with other bodies. In TouchDesigner all bodies are rigid.  A body can be a whole geometry component, a SOP within a Geometry component, or one or more instances of Geometry component. Decided to use the bullet solver for my last scene to make words fall in the end, to emphasize the line of the poem “drop him bone by bone”. I achieved the desired result by having to 4 actors, but still didn’t like the end result and decided to get rid of the idea. 
 
-<img src ="img/TouchDesigner_yLcZei16cI.jpg">
+<img src ="img/kNwBIH0Vh0.gif">
 
 Since I wasn’t satisfied with 3rd scene and especially how it looked together with a silhouette from kinect with hands in the fog, I decided to change it completely. I learned about nvdia flow and decided to use it for the last scene, since it would go nicely with kinect fog silluette. NVIDIA Flow is a volumetric fluid based simulation of a burning gas system. You can control the 3 main factors of temperature, fuel, and smoke to create fire and smoke simulations. I got a really nice burning fire from it in the end.
 
