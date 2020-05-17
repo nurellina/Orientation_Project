@@ -89,7 +89,7 @@ Learned about instancing in Touchdesigner, a technique that lets you copy one pi
 
 learned about feedback loop, which is used to create feedback effects in TOPs. It can give fake motion blur by not clearing the color buffer, can produce amazing 2D trails, blooms, and other time-based visual effects. It took quite a while to understand, but once you get it, the feedback loop becomes so powerful. So I changed the  first scene using feedback with noise, edge, blur, and displace. 
 
-<img src ="img/thumb_IMG_9263_1024.jpg">
+<img src ="img/thumb_IMG_9263_1023.jpg">
 
 Got kinect from Markus, learned how to connect it with touchdesigner, which was not that difficult - I just had to download Kinect SDK. Markus has version one of kinect, which doesn’t support point cloud, so I had to work with player index and depth data, which was enough in the end. Watched many tutorials on kinect in touchdesigner. The best one turned out to be from CutMod (https://www.youtube.com/watch?v=r-EOtQhdJxg). Played with kinect and did some tests based on the tutorial from Cutmod. 
 
@@ -98,7 +98,7 @@ Got kinect from Markus, learned how to connect it with touchdesigner, which was 
 
 Learned about particles in touchdesigner. Any point can be used as the basis for the particles in a particle system. A particle system can be created in SOPs by using a Particle SOP, particles will be emitted from the points of the geometry connected to the Particle SOP's first input.  You can set various parameters, then use a Render TOP to render the particle system in a 2d texture. I made my  second scene using particle system, feedback loop and edge again. 
 
-<img src ="img/thumb_IMG_9262_1024.jpg">
+<img src ="img/thumb_IMG_9262_1023.jpg">
 
 
 ***April***
