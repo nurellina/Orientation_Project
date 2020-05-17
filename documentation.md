@@ -67,6 +67,8 @@
 
 Finally understood how mouse click interaction works in touchdesigner. It turned out that you need to use Panel Chop or Button Comp. I used the later, with selecting the width and height of the window with Select CHOP, mapping it to tx and ty with Math CHOP as well as select right mouse click and use it to trigger the event. It turned out to be so easy, but I spent so much time on finding information that now I regret, I should have just started with Kinect gesture interaction. 
 
+<img src ="img/y5U2CeqYmj.gif">
+
 Got Leap Motion from Rita and decided to test since I don’t have Kinect yet. It turned out to be much more easier to learn than simple mouse click because the documentation is better. Following the same procedure with Select CHOP did this test with drawing on a screen, where you can clear with a swipe and change the size of the brush with rotate. 
 
 <img src ="img/282mCB5Tqv.gif">
