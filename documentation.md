@@ -76,6 +76,8 @@ Got Leap Motion from Rita and decided to test since I don’t have Kinect yet. I
 Learned about instancing in Touchdesigner, a technique that lets you copy one piece of geometry many times in an efficient way. I  tried to incorporate text into visuals using instancing approach, by dividing a grid into equal cubes and manipulating the z value of the cubes with pieces of text on it. It worked quite well, but there is an optimization problem and it still makes the app to run slower, taking into account that I have three scenes, it might become a problem later, so I still have to find another way to incorporate text. 
 
 <img src ="img/1yF3O961WV.jpg">
+
+<img src ="img/TouchDesigner_dI9Wf0xcaj.png">
  
 ***March***
 
@@ -90,6 +92,8 @@ Learned about particles in touchdesigner. Any point can be used as the basis for
 ***April***
 
 Since i wasn’t happy with the way I integrated the text into visuals previously, I had to think of the new way. I decided to get rid of the idea of the text to be a part of the visuals, since it would be too heavy for the real-time rendering and would cause FPS drops. After lots of thinking I decided to have a plain text, but covered in the beginning and the reader would to have somehow dig inside and uncover it with a pointlight. Going through documentation of different TOPS I found that Matte Top is the best solution for it. The Matte TOP composites input1 over input2 using the alpha channel of input3 as a matte. So i have visuals with text on it as input 1 and alone visuals as input 2, and then input three is a circle as a mask matte. 
+
+<img src ="img/TouchDesigner_W1albkyjxm.png">
 
 Added third scene using instancing. I already learned about this technique last month when I was trying to integrate text into visuals, so I wanted to use the knowledge that I gained for the third scene. I watched the tutorial by bileam tschepe (https://www.youtube.com/watch?v=_AtAaek3ca4&t=1s) and created something similar by instancing spheres and making them looking like eyes with a Ramp TOP. But i’m still not really satisfied with the results. 
 
