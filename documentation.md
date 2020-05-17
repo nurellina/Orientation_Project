@@ -115,13 +115,11 @@ It was really hard to make a decision on how to switch between scenes. My first 
 
 <img src ="img/TouchDesigner_gAGxPGY27h.png">
 
-Integrated Kinect: used Kinect CHOP to track right hand and left hand position and used it for revealing words and control of the particles. Used Kinect TOP’s player index data for silhouette in the first scene and Kinect TOP’s depth data for hands of the silhouette in the last scene by setting a threshold to a smaller value so only the parts of silhouette that are close to the camera would be visible.  
+Integrated Kinect: used Kinect CHOP to track right hand and left hand position and used it for revealing words and control of the particles. Used Kinect TOP’s player index data for silhouette in the first scene and Kinect TOP’s depth data for hands of the silhouette in the last scene by setting a threshold to a smaller value so only the parts of silhouette that are close to the camera would be visible. I had to do lots of tweaking to make silluetes looks nice. 
 
 <img src ="img/TouchDesigner_aZE5VPtSIB.jpg">
 
 <img src ="img/thumb_IMG_9318_1024.jpg">
-
-??? older versions of sillutete
 
 Decided to make text to be more interesting. Spent so much time and tried many different things, but wasn’t satisfied with the results. It’s hard in real time cause each word needs to cook and then one need to use instances or replicators to not cook the same geometry. Sadly forgot to document all  things that I tried, but there is the example where I was thinking that words would be spread thought the screen randomly and one would have to swipe to put them in the right order.
 
