@@ -113,17 +113,30 @@ Added third scene using instancing. I already learned about this technique last 
 
 It was really hard to make a decision on how to switch between scenes. My first idea was to switch to the next scene after all words of the current scene would be revealed. That would mean I would have to change how the text integrated into visuals all other again. The other way is to use a set timeline, so scenes change automatically with a specified time. After talking to my friends it seemed like second idea would work better and first approach is not that intuitive and can confuse the audience. There are so many ways in touchdesigner on how to use a timeline and there are so many nuances to consider when it comes to optimization and FPS. There is even a big multi-layer timeline component (https://derivative.ca/community-post/asset/timebase-multi-layer-timeline-component) from the founder of touchdesigner, but it seemed too complex to me. After lots of research I decided to switch between the scenes with a Switch TOP (with blending between the scenes ON, which means all the scenes will be cooked, which is bad for FPS, but couldn't find better solution) and Speed, Logic, Fan and Lag CHOPs. 
 
+<img src ="img/TouchDesigner_gAGxPGY27h.png">
+
 Integrated Kinect: used Kinect CHOP to track right hand and left hand position and used it for revealing words and control of the particles. Used Kinect TOP’s player index data for silhouette in the first scene and Kinect TOP’s depth data for hands of the silhouette in the last scene by setting a threshold to a smaller value so only the parts of silhouette that are close to the camera would be visible.  
+
+<img src ="img/TouchDesigner_aZE5VPtSIB.jpg">
+<img src ="img/thumb_IMG_9318_1024.jpg">
+
+??? older versions of sillutete
 
 Decided to make text to be more interesting. Spent so much time and tried many different things, but wasn’t satisfied with the results. It’s hard in real time cause each word needs to cook and then one need to use instances or replicators to not cook the same geometry. Sadly forgot to document all  things that I tried, but there is the example where I was thinking that words would be spread thought the screen randomly and one would have to swipe to put them in the right order.
 
+<img src ="img/hQgux1tYk4.gif">
 
 learned about Bullet Solver in Touchdesigner, which is a real-time physics simulation. Bullet simulation contains bodies, forces and constraints, and produces motion on the bodies. Bodies have physical properties: mass, size, kinetic friction etc. Each body has a collision shape, which determines how it collides with other bodies. In TouchDesigner all bodies are rigid.  A body can be a whole geometry component, a SOP within a Geometry component, or one or more instances of Geometry component. Decided to use the bullet solver for my last scene to make words fall in the end, to emphasize the line of the poem “drop him bone by bone”. I achieved the desired result by having to 4 actors, but still didn’t like the end result and decided to get rid of the idea. 
 
-Since I wasn’t satisfied with 3rd scene and especially how it looked together with a silhouette from kinect with hands in the fog, I decided to change it completely. I llearned about nvdia flow and decided to use it for the last scene, since it would go nicely with kinect fog silluette. NVIDIA Flow is a volumetric fluid based simulation of a burning gas system. You can control the 3 main factors of temperature, fuel, and smoke to create fire and smoke simulations. I got a really nice burning fire from it in the end. 
+<img src ="img/TouchDesigner_yLcZei16cI.jpg">
 
-Did final tuning of all scenes, worked on color correction to make them be in the same style, cleaned up the network and tried to solve the bag of feedback loops going insane when kinect is not detected. 
+Since I wasn’t satisfied with 3rd scene and especially how it looked together with a silhouette from kinect with hands in the fog, I decided to change it completely. I learned about nvdia flow and decided to use it for the last scene, since it would go nicely with kinect fog silluette. NVIDIA Flow is a volumetric fluid based simulation of a burning gas system. You can control the 3 main factors of temperature, fuel, and smoke to create fire and smoke simulations. I got a really nice burning fire from it in the end.
+
+<img src ="img/thumb_IMG_9334_1024.jpg">
+
+Did final tuning of all scenes, choose a common typography, worked on color correction to make them be in the same style, cleaned up the network and tried to solve the bag of feedback loops going insane when kinect is not detected. 
 
 My friend sent me a few tracks he made for my installation. I chose one that I liked the most. The sound makes such a big difference. Decided not to have a voice over of the poem and have sound instead of it. I think it’s more powerful way to convey emotion. 
 
 Tried out installation in my kitchen because I don’t have enough space in my room and there is no other place I can do it because of corona :(
+<img src ="img/thumb_IMG_9330_1024.jpg">
