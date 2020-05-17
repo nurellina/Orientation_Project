@@ -75,6 +75,8 @@ Got Leap Motion from Rita and decided to test since I don’t have Kinect yet. I
 
 <img src ="img/282mCB5Tqv.gif">
 
+<img src ="img/yjtTwd6YjX.png">
+
 Learned about instancing in Touchdesigner, a technique that lets you copy one piece of geometry many times in an efficient way. I  tried to incorporate text into visuals using instancing approach, by dividing a grid into equal cubes and manipulating the z value of the cubes with pieces of text on it. It worked quite well, but there is an optimization problem and it still makes the app to run slower, taking into account that I have three scenes, it might become a problem later, so I still have to find another way to incorporate text. 
 
 <img src ="img/1yF3O961WV.jpg">
