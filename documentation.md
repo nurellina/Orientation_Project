@@ -135,9 +135,9 @@ Since I wasn’t satisfied with 3rd scene and especially how it looked together 
 
 <img src ="img/thumb_IMG_9334_1024.jpg">
 
-Did final tuning of all scenes, choose a common typography, worked on color correction to make them be in the same style, cleaned up the network and tried to solve the bag of feedback loops going insane when kinect is not detected. 
+Did final tuning of all scenes, choose a common typography, worked on color correction to make them be in the same style, cleaned up the network and tried to solve the bag of feedback loops going insane when kinect is not detected.
 
-My friend sent me a few tracks he made for my installation. I chose one that I liked the most. The sound makes such a big difference. Decided not to have a voice over of the poem and have sound instead of it. I think it’s more powerful way to convey emotion. 
+<img src ="img/TouchDesigner_woTEfAsq7q.png">
 
-Tried out installation in my kitchen because I don’t have enough space in my room and there is no other place I can do it because of corona :(
+My friend sent me a few tracks he made for my installation. I chose one that I liked the most. The sound makes such a big difference. Decided not to have a voice over of the poem and have sound instead of it. I think it’s more powerful way to convey emotion. Also tried out installation in my kitchen because I don’t have enough space in my room and there is no other place I can do it because of corona :(
 <img src ="img/thumb_IMG_9330_1024.jpg">
