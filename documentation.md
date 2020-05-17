@@ -81,7 +81,7 @@ Learned about instancing in Touchdesigner, a technique that lets you copy one pi
 
 <img src ="img/1yF3O961WV.jpg">
 
-<img src ="TouchDesigner_rSJ5EvUsOj.jpg">
+<img src ="img/TouchDesigner_rSJ5EvUsOj.jpg">
 
 <img src ="img/TouchDesigner_dI9Wf0xcaj.png">
  
